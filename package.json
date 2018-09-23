@@ -1,6 +1,6 @@
 {
   "name": "@lobal/html-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple express render engine",
   "repository": "lobal/html-render",
   "main": "dist/index.js",
